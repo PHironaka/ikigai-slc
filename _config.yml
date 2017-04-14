@@ -16,8 +16,8 @@ collections:
     output: true
 email: your-email@domain.com
 description: Modern cuisine influenced by Japanese flavors in a lively and fun environment
-  right in the heart of downtown Salt Lake City.
-baseurl: 
+  right in the heart  downtown Salt Lake City.
+baseurl:
 operation: 5-9 tues wed 5-10 thurs-sat
 address: 67 W 100 S, Salt Lake City, UT 84101
 twitter_username: nakedfishbistro
